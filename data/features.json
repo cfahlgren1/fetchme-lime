@@ -2,21 +2,20 @@
   "title" : "Features",
   "description" : "With FetchMe, we are confident that anyone from seasoned engineers to marketing can understand your API request workflow!",
   "content" : [
-    
-    {
-      "icon" : "code",
-      "title" : "Enhanced Collaboration",
-      "description" : "We seamlessly integrate API development into your existing workflow to allow team collaboration and increased productivity."
-    },
-    {
-      "icon" : "keyboard",
-      "title" : "Familiar Syntax",
-      "description" : "We based our command app off cURL. Make API requests using your familiar cURL commands. Send everything from simple GET requests to POST requests with headers and data."
-    },
     {
       "icon" : "arrow-up",
       "title" : "No Request Limit",
       "description" : "We built Slack to improve your workflow, not hinder it! Go crazy and send some Fetch requests!"
+    },
+    {
+      "icon" : "handshake",
+      "title" : "Enhanced Collaboration",
+      "description" : "We seamlessly integrate API development into your existing workflow to allow team collaboration and increased productivity."
+    },
+    {
+      "icon" : "code",
+      "title" : "Familiar Syntax",
+      "description" : "We based our command app off cURL. Make API requests using your familiar cURL commands. Send everything from simple GET requests to POST requests with headers and data."
     },
     {
       "icon" : "list",
