@@ -1,0 +1,4 @@
+baseURL = "http://fetchme.io/"
+languageCode = "en-us"
+title = "FetchMe | API Development for Slack"
+theme = "hugo-lime"

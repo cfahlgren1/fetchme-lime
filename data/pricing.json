@@ -1,0 +1,19 @@
+{
+  "title" : "Pricing",
+  "description" : "Pricing subtitle",
+  "content" : [
+    {
+      "title" : "Free",
+      "price" : "$0",
+      "features" : [
+        "No setup, monthly, or hidden fees",
+        "Pay only for what you use",
+        "Real-time fee reporting"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}

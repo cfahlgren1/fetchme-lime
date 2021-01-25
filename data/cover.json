@@ -1,0 +1,11 @@
+{
+	"title" : "Integrate API development into your workflow!",
+	"description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec nulla ac urna suscipit iaculis sit amet ac neque. Cras volutpat scelerisque pretium. Mauris cursus ultricies pulvinar.",
+	"illustration" : "freelancing.svg",
+	"alt_text" : "Check it out, it's free!",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Get Started",
+		"href" : "#contact"
+	}
+}
